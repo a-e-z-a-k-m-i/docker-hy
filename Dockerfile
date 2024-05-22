@@ -20,4 +20,4 @@ RUN npm install -g serve
 
 COPY --from=build-stage /usr/src/app/build /usr/src/html
 
-CMD serve -l $PORT /usr/src/html
+CMD serve -s -l $PORT /usr/src/html
