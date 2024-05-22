@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DevOps with Docker',
-  tagline: 'Containers for Beginners',
+  tagline: 'Containers for Experts',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
